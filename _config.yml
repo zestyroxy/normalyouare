@@ -23,13 +23,12 @@ url: "https://zestyroxy.github.io" # the base hostname & protocol for your site,
 show_excerpts: true
 
 social:
+  youtube-square: https://www.youtube.com/channel/UC3u3YZ35NU1Zl3zxRH3d7OA
+  instagram: https://www.instagram.com/zestyroxy
   twitter: https://twitter.com/roxannejoncas
-  github: https://github.com/zestyroxy
+  email: mailto:zestyroxy@gmail.com
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
-  #email: /contact/
-  #instagram:
-  #youtube-square:
 
 # Build settings
 markdown: kramdown
