@@ -17,8 +17,8 @@ title: Normal you are
 email: roxjoncas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm attempting to figure out what it means to be normal in order to debunk the word. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/normalyouare" # the subpath of your site, e.g. /blog
+url: "https://zestyroxy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: roxannejoncas
 github_username:  zestyroxy
 
