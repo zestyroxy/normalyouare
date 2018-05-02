@@ -17,7 +17,7 @@ title: Normal you are
 email: roxjoncas@gmail.com
 owner: Roxanne Joncas
 description: >- # this means to ignore newlines until "baseurl:"
-Attempting to figure out what it means to be normal in order to debunk the word. 
+  Attempting to figure out what it means to be normal in order to debunk the word. 
 baseurl: "/normalyouare" # the subpath of your site, e.g. /blog
 url: "https://zestyroxy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
