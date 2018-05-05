@@ -863,7 +863,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			color: _palette(accent5, fg-bold) !important;
 
 			&:hover {
-				background-color: lighten(_palette(accent5, bg), 6) !important;
+				background-color: lighten(_palette(accent6, bg), 6) !important;
 			}
 
 			&:active {

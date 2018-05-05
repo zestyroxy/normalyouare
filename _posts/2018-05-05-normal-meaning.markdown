@@ -25,8 +25,8 @@ That’s why I am starting this project called Normal You Are. The goal is to fi
 Help out by taking this short survey to let me know what normal means to you. It’s anonymous and will help me better understand how to begin debunking “normal”.
 
 <div class="row">
-					<div class="6u 12u$(medium)">
-						<ul class="actions">
-							<li><a target="_blank" href="https://normal.typeform.com/to/T6aVnC" class="button">Complete the survey</a></li>
-						</ul>
+	<div class="6u 12u$(medium)">
+		<ul class="actions">
+			<li><a target="_blank" href="https://normal.typeform.com/to/T6aVnC" class="button">Complete the survey</a></li>
+		</ul>
 </div>
