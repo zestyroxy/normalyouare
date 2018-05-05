@@ -4,8 +4,6 @@ title:  "What does being normal even mean?"
 date:   2018-05-05 09:45:42 +0200
 categories: general
 ---
-**What does being normal even mean?**
-
 I don’t recall the moment when I noticed that everyone was different, nor do I remember when that became important, I just know it was in primary school. It has caused me grief ever since.
 
 Over the years, I went through different phases wardrobe-wise. As a toddler, I would only wear pink and purple. Those were my absolute favourite colors. I don’t remember what I wore between 5 and 11 because it didn’t seem to matter. Around twelve, I started refusing to wear dresses. I hit puberty and felt repulsive and insecure. I tried to hide my body, I hated gym because it showed cellulite and a scared knee. I dressed in baggy clothes and got mistaken for a boy. “Is this your son?” one lady asked my mother. 
