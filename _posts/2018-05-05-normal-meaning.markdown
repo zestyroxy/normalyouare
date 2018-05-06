@@ -2,8 +2,8 @@
 layout: page
 title:  "What does being normal even mean?"
 date:   2018-05-05 09:45:42 +0200
-image: /assets/images/blog1.png
-card: /assets/images/blog1.png
+image: /images/blog1.png
+card: /images/blog1.png
 keywords: am I normal, insecurities, what is normal
 ---
 I don’t recall the moment when I noticed that everyone was different, nor do I remember when that became important, I just know it was in primary school. It has caused me grief ever since.
@@ -18,7 +18,7 @@ I got tired of the box. I got tired of the norms, of trying to fit in and, ultim
 
 Now, I have to learn to be myself all over again. After 30 years or trying to be some illusionist that tried to please everyone and also not repulse anyone, I lost my essence. I am in there somewhere, I just need to make room for her to slowly come back.
 
-![Our winter boots]({{site.baseurl}}/assets/images/blog1.jpg)
+![Our winter boots]({{site.baseurl}}/images/blog1.jpg)
 
 In November 2016, I moved to Germany and it has been a blessing. It has been the hardest thing I’ve ever done, but I got to be reborn. I had to learn how to live again, to find out who I was and how I fit into this culture. I started filming vlogs and posted them on YouTube. I now think it all started so I could hear my own voice. I created a book club called the Spinster Book Club to meet women and talk about feminism, diversity, and gender. It has been amazing to learn from these women and hear their perspective. [(View Spinster Book Club Book List)](https://docs.google.com/document/d/1WMT2nFu5sxRebhyAZV-yY6BniYHQyHM0cMw8F6l8mzM/edit)
 
