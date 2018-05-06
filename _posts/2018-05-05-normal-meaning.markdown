@@ -3,6 +3,7 @@ layout: page
 title:  "What does being normal even mean?"
 date:   2018-05-05 09:45:42 +0200
 categories: general
+image: /images/blog1.jpg
 ---
 I don’t recall the moment when I noticed that everyone was different, nor do I remember when that became important, I just know it was in primary school. It has caused me grief ever since.
 
@@ -15,6 +16,8 @@ Out of all the “looks” I tried, the only trend was that everyone had an opin
 I got tired of the box. I got tired of the norms, of trying to fit in and, ultimately, of my brain torturing me for not being perfect. Over the years, I got too many haircuts. I waxed my upper lip for years because men casually pointed out I had a mustache. I had this ever-present fear that if I had some slightly dark hair above my lip, I was to be sent off to join a freak show, to never be happy and to hide my face forever. I shaved my entire legs, including the thighs to remove any sign of hairs. I wore long shorts or pants so no one would see the spectacle that was my cellulite. I learned to lift my eyebrows in photos so my eyes wouldn’t look “too Asian”. I spoke softer so my voice wouldn’t annoy anyone, because apparently, it’s annoying and can sound like a 5-year-old’s voice. I stopped laughing too much, talking too much. I stopped being. Too much.
 
 Now, I have to learn to be myself all over again. After 30 years or trying to be some illusionist that tried to please everyone and also not repulse anyone, I lost my essence. I am in there somewhere, I just need to make room for her to slowly come back.
+
+![Our winter boots](/Users/roxannejoncas/git/normalyouare/images/blog1.jpg "Winter Boots")
 
 In November 2016, I moved to Germany and it has been a blessing. It has been the hardest thing I’ve ever done, but I got to be reborn. I had to learn how to live again, to find out who I was and how I fit into this culture. I started filming vlogs and posted them on YouTube. I now think it all started so I could hear my own voice. I created a book club called the Spinster Book Club to meet women and talk about feminism, diversity, and gender. It has been amazing to learn from these women and hear their perspective. [(View Spinster Book Club Book List)](https://docs.google.com/document/d/1WMT2nFu5sxRebhyAZV-yY6BniYHQyHM0cMw8F6l8mzM/edit)
 
