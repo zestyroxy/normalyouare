@@ -3,7 +3,7 @@ layout: page
 title:  "What does being normal even mean?"
 date:   2018-05-05 09:45:42 +0200
 image: /images/blog1.jpg
-card: /images/blog1.jpg
+card: summary_large_image
 keywords: am I normal, insecurities, what is normal
 ---
 I don’t recall the moment when I noticed that everyone was different, nor do I remember when that became important, I just know it was in primary school. It has caused me grief ever since.
