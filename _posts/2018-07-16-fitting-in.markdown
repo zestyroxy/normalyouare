@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Expired: Need to fit in"
+title:  "Fitting in now considered harmful"
 date:   2018-07-16 09:45:42 +0200
 image: /images/swing.jpg
 card: summary_large_image
