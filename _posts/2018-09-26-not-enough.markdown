@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "I am not enough"
-date:   2018-09-26 16:55:42 +0200
+date:   2018-10-26 16:55:42 +0200
 image: /images/blog3.png
 card: summary_large_image
 keywords: i am not enough, how to be authentic, is life worth it
