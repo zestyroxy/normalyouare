@@ -18,7 +18,7 @@ email: zestyroxy@gmail.com
 owner: Roxanne Joncas
 description: >- # this means to ignore newlines until "baseurl:"
   Attempting to figure out what it means to be normal in order to debunk the word
-url: "https://www.normalyouare.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zestyroxy.github.io/normalyouare" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 
 social:
